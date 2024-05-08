@@ -1,0 +1,19 @@
+button.button{
+  position: relative;
+  padding: 0.8rem 1rem;
+  background-color: rgb(242, 6, 6);
+  color: #f1eeee;
+  white-space: nowrap;
+  border-radius: 0.3rem;
+  font-size: 1rem;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+  bottom: 300px;
+}
+
+button.button:hover{
+  background-color: rgb(242, 237, 237);
+  color: #f20505;
+}
